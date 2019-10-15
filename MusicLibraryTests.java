@@ -1,0 +1,73 @@
+//JUnit
+
+import org.junit.Test;
+import org.junit.Before;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+
+import static org.junit.Assert.*;
+import java.util.Scanner;
+import java.net.*;
+import java.io.*;
+
+public class MusicLibraryTests {
+
+    @Before // Executed before each test in this class
+    public void executeBeforeEachTest() {
+        System.out.println("@Before: test starting ..");
+    }
+
+    @Test
+    public void compareTitleFile() {
+	Scanner inFile = null;
+	String[] words = new String[5];
+	try{
+	    inFile = new Scanner(new File("titleOutput.txt"));
+	    for (int x=0; x<5; x++){
+		words[x] = inFile.nextLine();
+	    }
+	}catch (Exception e){
+	    System.out.println("file not found");
+	}
+
+	
+	assertEquals(words[1], "A Boy's Best Friend                     The White Stripes                       De Stijl                                4:22   2010 Digital BitRate: 320                    ");
+	assertEquals(words[2], "A Matter Of Time                        Foo Fighters                            Wasting Light                           4:36   2011 Digital BitRate: 320                    ");
+	assertEquals(words[3], "A Message                               Coldplay                                X&Y                                     4:45   2005 Digital BitRate: 9216                   ");
+	assertEquals(words[4], "All Alone                               Gorillaz                                Demon Days                              3:30   2005 Digital BitRate: 1411                   ");
+    }
+
+    @Test
+    public void compareArtistFile() {
+	Scanner inFile = null;
+	String[] words = new String[5];
+	try{
+	    inFile = new Scanner(new File("artistOutput.txt"));
+	    for (int x=0; x<5; x++){
+		words[x] = inFile.nextLine();
+	    }
+	}catch (Exception e){
+	    System.out.println("file not found");
+	}
+
+	assertEquals(words[1], "What It Takes                           Aerosmith                               Pump                                    6:30   1989 Vinyl RPM: 33                           ");
+	assertEquals(words[1], "Hoodoo / Voodoo Medicine Man            Aerosmith                               Pump                                    4:39   1989 Vinyl RPM: 33                           ");
+	assertEquals(words[1], "Don't Get Mad Get Even                  Aerosmith                               Pump                                    4:49   1989 Vinyl RPM: 33                           ");
+    }
+
+    @After
+    public void executeAfterTest() {
+        System.out.println("@After: test completed");
+    }
+
+    @AfterClass
+    public static void executeAfterAllTests() {
+        System.out.println("@AfterClass: ALL TESTING COMPLETED");
+    }
+
+    @BeforeClass
+    public static void executeBeforeAllTests() {
+        System.out.println("@BeforeClass: BEFORE TESTING BEGINS");
+    }
+}

@@ -1,0 +1,267 @@
+TITLE                                   ARTIST                                  ALBUM                                   LENGTH YEAR ADDITIONAL_INFORMATION                  
+A Boy's Best Friend                     The White Stripes                       De Stijl                                4:22   2010 Digital BitRate: 320                    
+A Matter Of Time                        Foo Fighters                            Wasting Light                           4:36   2011 Digital BitRate: 320                    
+A Message                               Coldplay                                X&Y                                     4:45   2005 Digital BitRate: 9216                   
+All Alone                               Gorillaz                                Demon Days                              3:30   2005 Digital BitRate: 1411                   
+Alone + Easy Target                     Foo Fighters                            Foo Fighters                            4:05   1995 Vinyl RPM: 33                           
+Alone Together                          The Strokes                             Is This It                              3:11   2001 Vinyl RPM: 33                           
+Amsterdam                               Imagine Dragons                         Night Visions                           4:02   2012 Digital BitRate: 320                    
+Another Set of Issues                   OK Go                                   Hungry Ghosts                           3:58   2014 Digital BitRate: 320                    
+Antichrist Television Blues             Arcade Fire                             Neon Bible                              5:10   2017 Digital BitRate: 1411                   
+Apocalypse please                       Muse                                    Absolution                              4:13   2003 Digital BitRate: 320                    
+Apple Blossom                           The White Stripes                       De Stijl                                2:13   2010 Digital BitRate: 320                    
+Arlandria                               Foo Fighters                            Wasting Light                           4:27   2011 Digital BitRate: 320                    
+Assasin                                 Muse                                    Black Holes and Revelations             3:31   2006 Digital BitRate: 9216                   
+Automatic Stop                          The Strokes                             Room On Fire                            3:29   2003 Digital BitRate: 1411                   
+Back & Forth                            Foo Fighters                            Wasting Light                           3:52   2011 Digital BitRate: 320                    
+Ball & Biscuit                          The White Stripes                       Elephant                                7:19   2008 Digital BitRate: 320                    
+Barely Legal                            The Strokes                             Is This It                              4:39   2001 Vinyl RPM: 33                           
+Between Love & Hate                     The Strokes                             Room On Fire                            3:12   2003 Digital BitRate: 1411                   
+Big Me                                  Foo Fighters                            Foo Fighters                            2:13   1995 Vinyl RPM: 33                           
+Black Math                              The White Stripes                       Elephant                                3:04   2008 Digital BitRate: 320                    
+Black Mirror                            Arcade Fire                             Neon Bible                              4:13   2017 Digital BitRate: 1411                   
+Black Wave / Bad Vibrations             Arcade Fire                             Neon Bible                              3:58   2017 Digital BitRate: 1411                   
+Blackout                                Muse                                    Absolution                              4:22   2003 Digital BitRate: 320                    
+Bleeding Out                            Imagine Dragons                         Night Visions                           3:43   2012 Digital BitRate: 320                    
+Born To Be A Dancer                     Kaiser Chiefs                           Employment                              3:31   2005 Digital BitRate: 1411                   
+Brass Monkey                            The Beastie Boys                        Licensed To Ill                         2:37   1995 Vinyl RPM: 45                           
+Bridge Burning                          Foo Fighters                            Wasting Light                           4:46   2011 Digital BitRate: 320                    
+Bright As Your Eyes                     OK Go                                   Hungry Ghosts                           2:55   2014 Digital BitRate: 320                    
+Bring It On Down                        Oasis                                   Definitely Maybe                        4:18   1994 Vinyl RPM: 45                           
+Butterflies and hurricanes              Muse                                    Absolution                              5:02   2003 Digital BitRate: 320                    
+Caroline                                Kaiser Chiefs                           Employment                              4:13   2005 Digital BitRate: 1411                   
+Cha-Ching (Till We Grow Older)          Imagine Dragons                         Night Visions                           4:10   2012 Digital BitRate: 320                    
+Cigarettes & Alcohol                    Oasis                                   Definitely Maybe                        4:49   1994 Vinyl RPM: 45                           
+City of Delusion                        Muse                                    Black Holes and Revelations             4:49   2006 Digital BitRate: 9216                   
+Clint Eastwood                          Gorillaz                                Gorillaz                                5:42   2001 Digital BitRate: 9216                   
+Columbia                                Oasis                                   Definitely Maybe                        6:17   1994 Vinyl RPM: 45                           
+DARE                                    Gorillaz                                Demon Days                              4:04   2005 Digital BitRate: 1411                   
+Dear Rosemary                           Foo Fighters                            Wasting Light                           4:26   2011 Digital BitRate: 320                    
+Death Letter                            The White Stripes                       De Stijl                                4:30   2010 Digital BitRate: 320                    
+Demon Days                              Gorillaz                                Demon Days                              4:29   2005 Digital BitRate: 1411                   
+Demons                                  Imagine Dragons                         Night Visions                           2:58   2012 Digital BitRate: 320                    
+Digsy's Dinner                          Oasis                                   Definitely Maybe                        2:32   1994 Vinyl RPM: 45                           
+Dirty Harry                             Gorillaz                                Demon Days                              3:44   2005 Digital BitRate: 1411                   
+Doll                                    Foo Fighters                            The Colour and the Shape                1:23   1997 Vinyl RPM: 45                           
+Don't Get Lost In Heaven                Gorillaz                                Demon Days                              2:00   2005 Digital BitRate: 1411                   
+Don't Get Mad Get Even                  Aerosmith                               Pump                                    4:49   1989 Vinyl RPM: 33                           
+Don't Panic                             Coldplay                                Parachutes                              2:17   2000 Digital BitRate: 320                    
+Double Bass                             Gorillaz                                Gorillaz                                4:45   2001 Digital BitRate: 9216                   
+Doubt                                   Twenty One Pilots                       Blurryface                              3:11   2015 Digital BitRate: 1411                   
+Dulcimer Stomp / The Other Side         Aerosmith                               Pump                                    4:57   1989 Vinyl RPM: 33                           
+El Manana                               Gorillaz                                Demon Days                              3:50   2005 Digital BitRate: 1411                   
+Endlessly                               Muse                                    Absolution                              3:49   2003 Digital BitRate: 320                    
+Enough Space                            Foo Fighters                            The Colour and the Shape                2:37   1997 Vinyl RPM: 45                           
+Everlong                                Foo Fighters                            The Colour and the Shape                4:11   1997 Vinyl RPM: 45                           
+Every Night                             Imagine Dragons                         Night Visions                           3:37   2012 Digital BitRate: 320                    
+Every Planet We Reach Is Dead           Gorillaz                                Demon Days                              4:53   2005 Digital BitRate: 1411                   
+Everyday I Love You Less And Less       Kaiser Chiefs                           Employment                              3:38   2005 Digital BitRate: 1411                   
+Everything's Not Lost                   Coldplay                                Parachutes                              7:16   2000 Digital BitRate: 320                    
+Exhausted                               Foo Fighters                            Foo Fighters                            5:51   1995 Vinyl RPM: 33                           
+Exo-Politics                            Muse                                    Black Holes and Revelations             3:54   2006 Digital BitRate: 9216                   
+F.I.N.E.                                Aerosmith                               Pump                                    4:10   1989 Vinyl RPM: 33                           
+Fairly Local                            Twenty One Pilots                       Blurryface                              3:27   2015 Digital BitRate: 1411                   
+Falling away with you                   Muse                                    Absolution                              4:41   2003 Digital BitRate: 320                    
+February Stars                          Foo Fighters                            The Colour and the Shape                4:49   1997 Vinyl RPM: 45                           
+Feel Good Inc.                          Gorillaz                                Demon Days                              3:41   2005 Digital BitRate: 1411                   
+Fight For Your Right                    The Beastie Boys                        Licensed To Ill                         3:27   1995 Vinyl RPM: 45                           
+Fire Coming Out Of The Monkey's Head    Gorillaz                                Demon Days                              3:16   2005 Digital BitRate: 1411                   
+Fix You                                 Coldplay                                X&Y                                     4:55   2005 Digital BitRate: 9216                   
+Floaty                                  Foo Fighters                            Foo Fighters                            4:30   1995 Vinyl RPM: 33                           
+For All the Cows                        Foo Fighters                            Foo Fighters                            3:30   1995 Vinyl RPM: 33                           
+Girl You Have No Faith in Medicine      The White Stripes                       Elephant                                3:18   2008 Digital BitRate: 320                    
+Girls                                   The Beastie Boys                        Licensed To Ill                         2:14   1995 Vinyl RPM: 45                           
+Going Down / Love In An Elevator        Aerosmith                               Pump                                    5:39   1989 Vinyl RPM: 33                           
+Goner                                   Twenty One Pilots                       Blurryface                              3:57   2015 Digital BitRate: 1411                   
+Good Clean Fun                          Kaiser Chiefs                           Stay Together                           5:08   2016 Digital BitRate: 1411                   
+Good Grief                              Foo Fighters                            Foo Fighters                            4:01   1995 Vinyl RPM: 33                           
+Happen In A Heartbeat                   Kaiser Chiefs                           Stay Together                           3:21   2016 Digital BitRate: 1411                   
+Hard To Explain                         The Strokes                             Is This It                              3:47   2001 Vinyl RPM: 33                           
+Hear Me                                 Imagine Dragons                         Night Visions                           3:55   2012 Digital BitRate: 320                    
+Heavydirtysoul                          Twenty One Pilots                       Blurryface                              3:55   2015 Digital BitRate: 1411                   
+Hello Operator                          The White Stripes                       De Stijl                                2:36   2010 Digital BitRate: 320                    
+Hey Johnny Park!                        Foo Fighters                            The Colour and the Shape                4:08   1997 Vinyl RPM: 45                           
+High Society                            Kaiser Chiefs                           Stay Together                           3:48   2016 Digital BitRate: 1411                   
+High Speed                              Coldplay                                Parachutes                              4:14   2000 Digital BitRate: 320                    
+Hold It Now Hit It                      The Beastie Boys                        Licensed To Ill                         3:26   1995 Vinyl RPM: 45                           
+Hole In My Soul                         Kaiser Chiefs                           Stay Together                           4:28   2016 Digital BitRate: 1411                   
+Hometown                                Twenty One Pilots                       Blurryface                              3:55   2015 Digital BitRate: 1411                   
+Hoodoo                                  Muse                                    Black Holes and Revelations             3:43   2006 Digital BitRate: 9216                   
+Hoodoo / Voodoo Medicine Man            Aerosmith                               Pump                                    4:39   1989 Vinyl RPM: 33                           
+Hypnotise                               The White Stripes                       Elephant                                1:49   2008 Digital BitRate: 320                    
+Hysteria                                Muse                                    Absolution                              3:48   2003 Digital BitRate: 320                    
+I Can't Win                             The Strokes                             Room On Fire                            2:36   2003 Digital BitRate: 1411                   
+I Just Don't Know What to do with MyselfThe White Stripes                       Elephant                                2:47   2008 Digital BitRate: 320                    
+I Predict A Riot                        Kaiser Chiefs                           Employment                              3:53   2005 Digital BitRate: 1411                   
+I Should Have Know                      Foo Fighters                            Wasting Light                           4:15   2011 Digital BitRate: 320                    
+I Want to be the Boy                    The White Stripes                       Elephant                                3:21   2008 Digital BitRate: 320                    
+I Won't Let You Down                    OK Go                                   Hungry Ghosts                           3:43   2014 Digital BitRate: 320                    
+I'll Stick Around                       Foo Fighters                            Foo Fighters                            3:53   1995 Vinyl RPM: 33                           
+I'm Bound to Pack it Up                 The White Stripes                       De Stijl                                3:10   2010 Digital BitRate: 320                    
+I'm Not Through                         OK Go                                   Hungry Ghosts                           3:36   2014 Digital BitRate: 320                    
+If I Had a Mountain                     OK Go                                   Hungry Ghosts                           3:19   2014 Digital BitRate: 320                    
+In the Cold Cold Night                  The White Stripes                       Elephant                                2:58   2008 Digital BitRate: 320                    
+Indoor Firework                         Kaiser Chiefs                           Stay Together                           3:57   2016 Digital BitRate: 1411                   
+Interlude                               Muse                                    Absolution                              0:38   2003 Digital BitRate: 320                    
+Intervention                            Arcade Fire                             Neon Bible                              4:19   2017 Digital BitRate: 1411                   
+Intro                                   Gorillaz                                Demon Days                              1:03   2005 Digital BitRate: 1411                   
+Intro                                   Muse                                    Absolution                              0:22   2003 Digital BitRate: 320                    
+Invincible                              Muse                                    Black Holes and Revelations             4:54   2006 Digital BitRate: 9216                   
+Is This It                              The Strokes                             Is This It                              2:35   2001 Vinyl RPM: 33                           
+It's Time                               Imagine Dragons                         Night Visions                           4:00   2012 Digital BitRate: 320                    
+It's True that We Love One Another      The White Stripes                       Elephant                                2:42   2008 Digital BitRate: 320                    
+Jumble Jumble                           The White Stripes                       De Stijl                                1:54   2010 Digital BitRate: 320                    
+Keep The Car Running                    Arcade Fire                             Neon Bible                              3:29   2017 Digital BitRate: 1411                   
+Kids With Guns                          Gorillaz                                Demon Days                              3:46   2005 Digital BitRate: 1411                   
+Kingdom Come                            Coldplay                                X&Y                                     4:11   2005 Digital BitRate: 9216                   
+Knights of Cydonia                      Muse                                    Black Holes and Revelations             6:04   2006 Digital BitRate: 9216                   
+Lane Boy                                Twenty One Pilots                       Blurryface                              4:13   2015 Digital BitRate: 1411                   
+Last Living Souls                       Gorillaz                                Demon Days                              3:10   2005 Digital BitRate: 1411                   
+Last Nite                               The Strokes                             Is This It                              3:17   2001 Vinyl RPM: 33                           
+Latin Simone                            Gorillaz                                Gorillaz                                3:37   2001 Digital BitRate: 9216                   
+Let's Build A Home                      The White Stripes                       De Stijl                                1:58   2010 Digital BitRate: 320                    
+Little Acorns                           The White Stripes                       Elephant                                4:09   2008 Digital BitRate: 320                    
+Little Bird                             The White Stripes                       De Stijl                                3:20   2010 Digital BitRate: 320                    
+Live Forever                            Oasis                                   Definitely Maybe                        4:37   1994 Vinyl RPM: 45                           
+Low                                     Coldplay                                X&Y                                     5:32   2005 Digital BitRate: 9216                   
+Lullaby                                 OK Go                                   Hungry Ghosts                           3:42   2014 Digital BitRate: 320                    
+Man Research (Clapper)                  Gorillaz                                Gorillaz                                4:30   2001 Digital BitRate: 9216                   
+Map of the Problematique                Muse                                    Black Holes and Revelations             4:19   2006 Digital BitRate: 9216                   
+Married With Children                   Oasis                                   Definitely Maybe                        3:13   1994 Vinyl RPM: 45                           
+Meet Me In The Bathroom                 The Strokes                             Room On Fire                            2:56   2003 Digital BitRate: 1411                   
+Message Man                             Twenty One Pilots                       Blurryface                              4:00   2015 Digital BitRate: 1411                   
+Miss The Misery                         Foo Fighters                            Wasting Light                           4:31   2011 Digital BitRate: 320                    
+Modern Way                              Kaiser Chiefs                           Employment                              4:04   2005 Digital BitRate: 1411                   
+Monkey On My Back                       Aerosmith                               Pump                                    3:58   1989 Vinyl RPM: 33                           
+Monkey Wrench                           Foo Fighters                            The Colour and the Shape                3:51   1997 Vinyl RPM: 45                           
+My Body Is A Cage                       Arcade Fire                             Neon Bible                              4:47   2017 Digital BitRate: 1411                   
+My Girl                                 Aerosmith                               Pump                                    3:10   1989 Vinyl RPM: 33                           
+My Hero                                 Foo Fighters                            The Colour and the Shape                4:20   1997 Vinyl RPM: 45                           
+My Poor Brain                           Foo Fighters                            The Colour and the Shape                3:33   1997 Vinyl RPM: 45                           
+Na Na Na Na Naa                         Kaiser Chiefs                           Employment                              3:01   2005 Digital BitRate: 1411                   
+Neon Bible                              Arcade Fire                             Neon Bible                              2:17   2017 Digital BitRate: 1411                   
+New Genious (Brother)                   Gorillaz                                Gorillaz                                3:58   2001 Digital BitRate: 9216                   
+New Way Home                            Foo Fighters                            The Colour and the Shape                5:42   1997 Vinyl RPM: 45                           
+New York City Cops                      The Strokes                             Is This It                              3:40   2001 Vinyl RPM: 33                           
+No Cars Go                              Arcade Fire                             Neon Bible                              5:44   2017 Digital BitRate: 1411                   
+No Sleep Till Brooklyn                  The Beastie Boys                        Licensed To Ill                         4:07   1995 Vinyl RPM: 45                           
+Not Today                               Twenty One Pilots                       Blurryface                              3:58   2015 Digital BitRate: 1411                   
+Nothing Left To Say / Rocks             Imagine Dragons                         Night Visions                           8:57   2012 Digital BitRate: 320                    
+November Has Come                       Gorillaz                                Demon Days                              2:41   2005 Digital BitRate: 1411                   
+O Green World                           Gorillaz                                Demon Days                              4:32   2005 Digital BitRate: 1411                   
+Obsession                               OK Go                                   Hungry Ghosts                           3:08   2014 Digital BitRate: 320                    
+Ocean Of Noise                          Arcade Fire                             Neon Bible                              4:54   2017 Digital BitRate: 1411                   
+Oh George                               Foo Fighters                            Foo Fighters                            3:01   1995 Vinyl RPM: 33                           
+Oh My God                               Kaiser Chiefs                           Employment                              3:35   2005 Digital BitRate: 1411                   
+On Top Of The World                     Imagine Dragons                         Night Visions                           3:12   2012 Digital BitRate: 320                    
+Parachutes                              Coldplay                                Parachutes                              0:46   2000 Digital BitRate: 320                    
+Parachutes                              Kaiser Chiefs                           Stay Together                           3:53   2016 Digital BitRate: 1411                   
+Paul Revere                             The Beastie Boys                        Licensed To Ill                         3:41   1995 Vinyl RPM: 45                           
+Polarize                                Twenty One Pilots                       Blurryface                              3:47   2015 Digital BitRate: 1411                   
+Posse In Effect                         The Beastie Boys                        Licensed To Ill                         2:26   1995 Vinyl RPM: 45                           
+Press Rewind                            Kaiser Chiefs                           Stay Together                           5:02   2016 Digital BitRate: 1411                   
+Punk                                    Gorillaz                                Gorillaz                                1:36   2001 Digital BitRate: 9216                   
+Radioactive                             Imagine Dragons                         Night Visions                           3:07   2012 Digital BitRate: 320                    
+Re-Hash                                 Gorillaz                                Gorillaz                                3:38   2001 Digital BitRate: 9216                   
+Reptilia                                The Strokes                             Room On Fire                            3:41   2003 Digital BitRate: 1411                   
+Rhymin & Stealin                        The Beastie Boys                        Licensed To Ill                         4:09   1995 Vinyl RPM: 45                           
+Ride                                    Twenty One Pilots                       Blurryface                              3:35   2015 Digital BitRate: 1411                   
+Rock N Roll Star                        Oasis                                   Definitely Maybe                        5:23   1994 Vinyl RPM: 45                           
+Rock The House                          Gorillaz                                Gorillaz                                4:09   2001 Digital BitRate: 9216                   
+Rope                                    Foo Fighters                            Wasting Light                           4:19   2011 Digital BitRate: 320                    
+Ruled by secrely                        Muse                                    Absolution                              4:52   2003 Digital BitRate: 320                    
+Saturday Night                          Kaiser Chiefs                           Employment                              3:28   2005 Digital BitRate: 1411                   
+See You                                 Foo Fighters                            The Colour and the Shape                2:27   1997 Vinyl RPM: 45                           
+Seven Nation Army                       The White Stripes                       Elephant                                3:52   2008 Digital BitRate: 320                    
+Shakermaker                             Oasis                                   Definitely Maybe                        5:09   1994 Vinyl RPM: 45                           
+She's Crafty                            The Beastie Boys                        Licensed To Ill                         3:35   1995 Vinyl RPM: 45                           
+Shiver                                  Coldplay                                Parachutes                              5:00   2000 Digital BitRate: 320                    
+Sing for absolution                     Muse                                    Absolution                              4:55   2003 Digital BitRate: 320                    
+Sister Do You Know My Name?             The White Stripes                       De Stijl                                2:52   2010 Digital BitRate: 320                    
+Slide Away                              Oasis                                   Definitely Maybe                        6:33   1994 Vinyl RPM: 45                           
+Slow And Low                            The Beastie Boys                        Licensed To Ill                         3:38   1995 Vinyl RPM: 45                           
+Slow Country                            Gorillaz                                Gorillaz                                3:36   2001 Digital BitRate: 9216                   
+Slow Ride                               The Beastie Boys                        Licensed To Ill                         2:57   1995 Vinyl RPM: 45                           
+Soldier's Poem                          Muse                                    Black Holes and Revelations             2:10   2006 Digital BitRate: 9216                   
+Soma                                    The Strokes                             Is This It                              2:37   2001 Vinyl RPM: 33                           
+Someday                                 The Strokes                             Is This It                              3:07   2001 Vinyl RPM: 33                           
+Sound Check (Gravity)                   Gorillaz                                Gorillaz                                4:41   2001 Digital BitRate: 9216                   
+Sparks                                  Coldplay                                Parachutes                              3:47   2000 Digital BitRate: 320                    
+Speed Of Sound                          Coldplay                                X&Y                                     4:48   2005 Digital BitRate: 9216                   
+Spies                                   Coldplay                                Parachutes                              5:19   2000 Digital BitRate: 320                    
+Square One                              Coldplay                                X&Y                                     4:47   2005 Digital BitRate: 9216                   
+Starlight                               Muse                                    Black Holes and Revelations             4:00   2006 Digital BitRate: 9216                   
+Starshine                               Gorillaz                                Gorillaz                                3:32   2001 Digital BitRate: 9216                   
+Still Waiting                           Kaiser Chiefs                           Stay Together                           8:42   2016 Digital BitRate: 1411                   
+Stockholm syndrome                      Muse                                    Absolution                              4:59   2003 Digital BitRate: 320                    
+Stressed Out                            Twenty One Pilots                       Blurryface                              3:22   2015 Digital BitRate: 1411                   
+Sunday Morning                          Kaiser Chiefs                           Stay Together                           4:30   2016 Digital BitRate: 1411                   
+Supermassive Black Hole                 Muse                                    Black Holes and Revelations             3:29   2006 Digital BitRate: 9216                   
+Supersonic                              Oasis                                   Definitely Maybe                        4:44   1994 Vinyl RPM: 45                           
+Swallowed In The Sea                    Coldplay                                X&Y                                     3:59   2005 Digital BitRate: 9216                   
+Take a Bow                              Muse                                    Black Holes and Revelations             4:40   2006 Digital BitRate: 9216                   
+Take It Or Leave It                     The Strokes                             Is This It                              2:43   2001 Vinyl RPM: 33                           
+Talk                                    Coldplay                                X&Y                                     5:11   2005 Digital BitRate: 9216                   
+Team Mate                               Kaiser Chiefs                           Employment                              3:24   2005 Digital BitRate: 1411                   
+Tear In My Heart                        Twenty One Pilots                       Blurryface                              3:08   2015 Digital BitRate: 1411                   
+The Air Near My Fingers                 The White Stripes                       Elephant                                3:40   2008 Digital BitRate: 320                    
+The End Has No End                      The Strokes                             Room On Fire                            3:07   2003 Digital BitRate: 1411                   
+The Great Fire                          OK Go                                   Hungry Ghosts                           4:17   2014 Digital BitRate: 320                    
+The Hardest Button to Button            The White Stripes                       Elephant                                3:32   2008 Digital BitRate: 320                    
+The Hardest Part                        Coldplay                                X&Y                                     4:25   2005 Digital BitRate: 9216                   
+The Judge                               Twenty One Pilots                       Blurryface                              4:58   2015 Digital BitRate: 1411                   
+The Modern Age                          The Strokes                             Is This It                              3:32   2001 Vinyl RPM: 33                           
+The New Style                           The Beastie Boys                        Licensed To Ill                         4:36   1995 Vinyl RPM: 45                           
+The One Moment                          OK Go                                   Hungry Ghosts                           3:43   2014 Digital BitRate: 320                    
+The Way It Is                           The Strokes                             Room On Fire                            2:23   2003 Digital BitRate: 1411                   
+The Well And The Lighthouse             Arcade Fire                             Neon Bible                              3:57   2017 Digital BitRate: 1411                   
+The Writing's On the Wall               OK Go                                   Hungry Ghosts                           3:33   2014 Digital BitRate: 320                    
+There's No Home for you here            The White Stripes                       Elephant                                3:44   2008 Digital BitRate: 320                    
+These Days                              Foo Fighters                            Wasting Light                           4:58   2011 Digital BitRate: 320                    
+This Is a Call                          Foo Fighters                            Foo Fighters                            3:53   1995 Vinyl RPM: 33                           
+Thoughts of a dying atheist             Muse                                    Absolution                              3:11   2003 Digital BitRate: 320                    
+Time Honoured Tradition                 Kaiser Chiefs                           Employment                              2:45   2005 Digital BitRate: 1411                   
+Time is running out                     Muse                                    Absolution                              3:56   2003 Digital BitRate: 320                    
+Time To Get Ill                         The Beastie Boys                        Licensed To Ill                         3:37   1995 Vinyl RPM: 45                           
+Tiptoe                                  Imagine Dragons                         Night Visions                           3:14   2012 Digital BitRate: 320                    
+Tomorrow Comes Today                    Gorillaz                                Gorillaz                                3:13   2001 Digital BitRate: 9216                   
+Trouble                                 Coldplay                                Parachutes                              4:31   2000 Digital BitRate: 320                    
+Truth Doesn't Make A Noise              The White Stripes                       De Stijl                                3:15   2010 Digital BitRate: 320                    
+Trying Your Luck                        The Strokes                             Is This It                              3:27   2001 Vinyl RPM: 33                           
+Tsp                                     Muse                                    Absolution                              3:29   2003 Digital BitRate: 320                    
+Turn Up the Radio                       OK Go                                   Hungry Ghosts                           2:56   2014 Digital BitRate: 320                    
+Twisted Logic                           Coldplay                                X&Y                                     5:02   2005 Digital BitRate: 9216                   
+Under Control                           The Strokes                             Room On Fire                            3:04   2003 Digital BitRate: 1411                   
+Underdog                                Imagine Dragons                         Night Visions                           3:30   2012 Digital BitRate: 320                    
+Up in Arms                              Foo Fighters                            The Colour and the Shape                2:16   1997 Vinyl RPM: 45                           
+Up In The Sky                           Oasis                                   Definitely Maybe                        4:29   1994 Vinyl RPM: 45                           
+Upside Down & Inside Out                OK Go                                   Hungry Ghosts                           3:08   2014 Digital BitRate: 320                    
+Walk                                    Foo Fighters                            Wasting Light                           4:16   2011 Digital BitRate: 320                    
+Walking After You                       Foo Fighters                            The Colour and the Shape                5:04   1997 Vinyl RPM: 45                           
+Water Song / Janie's Got A Gun          Aerosmith                               Pump                                    5:33   1989 Vinyl RPM: 33                           
+Wattershed                              Foo Fighters                            Foo Fighters                            2:16   1995 Vinyl RPM: 33                           
+We Don't Believe What's On TV           Twenty One Pilots                       Blurryface                              2:57   2015 Digital BitRate: 1411                   
+We Never Change                         Coldplay                                Parachutes                              4:09   2000 Digital BitRate: 320                    
+We Stay Together                        Kaiser Chiefs                           Stay Together                           4:33   2016 Digital BitRate: 1411                   
+Weenie Beenie                           Foo Fighters                            Foo Fighters                            2:46   1995 Vinyl RPM: 33                           
+What Did I Ever Give You?               Kaiser Chiefs                           Employment                              4:09   2005 Digital BitRate: 1411                   
+What Ever Happened?                     The Strokes                             Room On Fire                            2:52   2003 Digital BitRate: 1411                   
+What If                                 Coldplay                                X&Y                                     4:57   2005 Digital BitRate: 9216                   
+What It Takes                           Aerosmith                               Pump                                    6:30   1989 Vinyl RPM: 33                           
+White Light                             Gorillaz                                Demon Days                              2:08   2005 Digital BitRate: 1411                   
+White Limo                              Foo Fighters                            Wasting Light                           3:22   2011 Digital BitRate: 320                    
+White Shadows                           Coldplay                                X&Y                                     5:28   2005 Digital BitRate: 9216                   
+Why Can't You Be Nicer To Me?           The White Stripes                       De Stijl                                3:22   2010 Digital BitRate: 320                    
+Why Do You Do It To Me?                 Kaiser Chiefs                           Stay Together                           4:26   2016 Digital BitRate: 1411                   
+Wind Up                                 Foo Fighters                            The Colour and the Shape                2:32   1997 Vinyl RPM: 45                           
+Windowsill                              Arcade Fire                             Neon Bible                              4:16   2017 Digital BitRate: 1411                   
+Working Man                             Imagine Dragons                         Night Visions                           3:55   2012 Digital BitRate: 320                    
+X&Y                                     Coldplay                                X&Y                                     4:34   2005 Digital BitRate: 9216                   
+X-Static                                Foo Fighters                            Foo Fighters                            4:13   1995 Vinyl RPM: 33                           
+Yellow                                  Coldplay                                Parachutes                              4:29   2000 Digital BitRate: 320                    
+You Can Have It All                     Kaiser Chiefs                           Employment                              4:36   2005 Digital BitRate: 1411                   
+You Talk Way Too Much                   The Strokes                             Room On Fire                            3:02   2003 Digital BitRate: 1411                   
+You're Pretty Good Looking              The White Stripes                       De Stijl                                1:50   2010 Digital BitRate: 320                    
+You've Got Her in Your Pocket           The White Stripes                       Elephant                                3:40   2008 Digital BitRate: 320                    
+Young Lust                              Aerosmith                               Pump                                    4:20   1989 Vinyl RPM: 33                           
+Your Southern Can Is Mine               The White Stripes                       De Stijl                                2:29   2010 Digital BitRate: 320                    

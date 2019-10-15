@@ -1,0 +1,12 @@
+//Music Track Interface
+
+public interface MusicTrackInterface {
+
+    public abstract String getTitle();
+    public abstract String getLength();
+    public abstract String getArtist();
+    public abstract String getAlbum();
+    public abstract int getYear();
+    public abstract String getAdditionalInfo();
+    
+}
